@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width initial-scale=1,minimum scale=1,user-scalable=no" />
+    <title>Index</title>
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <style>
+    body
+{
+    overflow-x:hidden;
+    font-family:Arial;
+    background-color:AppWorkspace;
+    
+}
+.name
+{
+
+    font-size: 38px;
+}
+
+
+#cognizant {
+     margin: 0px auto;
+                width: 100px;
+                display: block;
+                
+}
+
+.icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding-left: 12px 0;
+    color: black;
+    font-size: 36px;
+      margin-bottom:0;
+      color:firebrick;
+}
+.icon-bar a:hover {
+    background-color: #2a80b9;
+}
+.defination
+{
+    font-size:xx-large;
+    color:blue;
+}
+.jumbotron
+{
+
+    color:lavenderblush;
+    
+}
+header
+{
+background-image:url('../Images/back.jpeg') ;
+  background-size:cover;
+  background-repeat:no-repeat;
+  
+    height: 500px;
+    font-family:Arial;
+  
+  
+}
+#line
+{
+width: 100%; 
+   text-align: center; 
+   border-bottom: 2px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 10px;
+}
+
+#line1
+{
+background:#fff; 
+    padding:0 10px; 
+font-family:Arial;
+} 
+
+.btn{
+background-color:wheat;
+}
+.btn:hover
+{
+border-radius: 4px;
+background-color:black;
+color:white;
+}
+#footer-1{
+ 
+                 margin: 0px auto;
+                width: 100px;
+                display: block;
+ 
+}
+#footer-2{
+ 
+                 margin: 0px auto;
+                width: 140px;
+            height:60px;
+ 
+}
+#footer-3{
+ 
+                 margin: 0px auto;
+                width: 150px;
+            height:63px;
+ 
+}
+.machine
+{
+ 
+                margin-bottom: 55px;
+                text-align: center;
+                color:white;
+                font-size:14px;
+ 
+}
+ .machine1
+{
+ 
+                margin-bottom: 55px;
+                text-align: center;
+                color:burlywood;
+                font-size:22px;
+ 
+}
+ .backgroundimage
+ {
+     background-image: url('../Images/soldering.jpg');
+width:100%;
+
+
+ }
+.project{
+background-image: url('../Images/proj.jpeg');
+/*background-size:cover;
+background-repeat:no-repeat;*/
+width:100%;
+}
+.progress
+{
+    height:25px;
+ 
+}
+.forskillborder
+{
+    border:10px;
+    background-color:gainsboro;
+    background-size:cover;
+   
+    
+}
+/*.designation
+{
+    color:palegoldenrod;
+}*/
+.myskill
+{
+   color:white;
+   font-size:large;
+   font-weight:bold;
+}
+.pic
+{
+    background-size:cover;
+}
+.favouriteProject1 {
+    color: white;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight:bolder;
+}
+.favouriteProject {
+    color:beige;
+    font-family: Arial;
+    font-size:xx-large;
+    
+}
+
+.cognizant
+{
+    width:150px;
+    height:50px;
+}
+.green
+{
+    background-color:lightcoral;
+}
+.skill
+{
+    font-size:xx-large;
+    font-weight:bolder;
+    color:forestgreen;
+}
+
+    </style>
+</head>
+<body>
+    <div>
+        <header class="jumbotron text-center">
+            <div class="container-fluid">
+                <div class="row">
+                    <br />
+                    <br />
+                    <br />
+                    <h2 class="name">SAWANTIKA HAZRA</h2>
+                    <h1 class="designation">FULL STACK DEVELOPER</h1>
+                </div>
+                <br />
+
+         
+                <div class="row">
+                    <div class="col-md-12 ">
+                        <p class="defination">
+                            "It always seems impossible until it is done.."
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <br />
+        
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class=" text-center">
+                    <b>CURRENTLY AT COGNIZANT AS A:</b>
+                </h2>
+
+                <h3 class="text-center"><b class="skill">PROGRAMMER ANALYST TRAINEE</b></h3>
+            </div>
+            <br />
+            <div class="row text-center">
+
+                <img id="cognizant" src="~/Images/Cognizant.jpg" class="img-responsive" />
+            </div>
+            <div class="col-md-6 col-md-offset-3">
+                <p class="text-center">
+                    Working as a Programmer Analyst Trainee with Cognizant Compe10cy Portal.
+                    I'm having training in MVC architecture with AJAX call,AngularJS using JQuery and SQL Server.
+                    I have also worked in ASP.NET Project and currently in Compe10cy project.As, a PAT I am gaining many valuable knowledge and having fun in doing my work.
+                </p>
+            </div>
+            <br />
+
+        </div>
+        <br />
+
+        @*<div class="row">
+            <div class="col-md-10 col-md-offset-1">
+                <h4 id="line"><span id="line1"><b>OTHER CONTRIBUTIONS</b></span></h4>
+            </div>
+        </div>*@
+       
+        @*<div class="container">
+            <div class="row">
+
+                <div class="col-md-4 col-md-offset-1">
+
+                    <img src="~/Images/logo.png" class="img-responsive cognizant " />
+                    <h3><b>DESIGNER</b></h3>
+                    <p>
+                        Currently A Compe10cy Team and had a great contribution in developing it.I am Full Stack Developer and was a part in My Learning team.
+                    </p>
+                    <br />
+                    <div class="col-md-5 ">
+                        <a href="https://compe10cy.cognizant.com/" type="button" class="btn btn-default btn-lg" target="_blank">View Website</a>
+                        <br />
+                    </div>
+                </div>
+
+                
+            </div>
+        </div>*@
+        
+        <div class="container">
+            <h3 class="text-center skill">My Skills</h3>
+            <br />
+            <div class="progress">
+                <div class="progress-bar progress-bar-striped active" role="progressbar"
+                     aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%;">
+                    <span class="myskill">C#</span>
+                </div>
+            </div>
+            <div class="progress">
+                <div class="progress-bar green progress-bar-striped active" role="progressbar"
+                     aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:67%">
+                    <span class="myskill">AngularJS</span>
+                </div>
+            </div>
+            <div class="progress">
+                <div class="progress-bar progress-bar-info  progress-bar-striped active" role="progressbar"
+                     aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                    <span class="myskill"> CSS</span>
+                </div>
+            </div>
+            <div class="progress">
+                <div class="progress-bar progress-bar-success  progress-bar-striped active" role="progressbar"
+                     aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
+                    <span class="myskill">HTML</span>
+                </div>
+            </div>
+            <div class="progress">
+                <div class="progress-bar progress-bar-warning  progress-bar-striped active" role="progressbar"
+                     aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                    <span class="myskill">BOOTSTRAP</span>
+                </div>
+            </div>
+
+        </div>
+            <br />
+            <div class="project">
+                <div class="container ">
+                    <h2 class="text-center favouriteProject"><b>FAVOURITE PROJECT</b></h2>
+                    <br />
+                    <br />
+                    <br/>
+                    <div class="col-md-7 text-center">
+                        <img src="~/Images/project.jpg " class=" img-responsive text-center pic" />
+
+                        <br />
+                        <br />
+
+                    </div>
+                    <div class="col-md-5 text-center">
+                        <p class="favouriteProject1">
+                            Currently A Compe10cy Team and had a great contribution in developing it.I am Full Stack Developer and was a part in My Learning team.Compe10cy was my first real-time project.It was a pillar which helped me to enrich
+                            in both back and Front-end.
+                        </p>
+                       
+                        <br />
+                        <br />
+                    </div>
+                    <div class="text-center">
+                        <a href="https://compe10cy.cognizant.com/" type="button" class="btn btn-default btn-lg" target="_blank">View Website</a>
+                        <br />
+                        <br />
+                        <br/>
+                    </div>
+
+                </div>
+            </div>
+        
+
+
+            <div class="backgroundimage">
+                <div class="container">
+
+                    <br />
+                    <div class="col-md-4">
+                        <br />
+
+                        <img src="~/Images/Csharp1.jpg" class="img-responsive" id="footer-1" />
+                        <h2 class="machine1">
+                            CSHARP
+                        </h2>
+                        <p class="machine">
+                            C# is a simple,modern object-oriented programming language developed by Microsoft within its.NET initiative led by Anders Hejlsberg.It includes all topics of C# such as objects and classes, inheritance, constructor, destructor, this, static, sealed, polymorphism, abstraction, abstract class, interface, namespace, encapsulation, properties, indexer, arrays, strings, regex, exception handling,File IO, Collections etc.
+                    </div>
+
+
+                    <div class="col-md-4">
+                        <br />
+
+                        <img src="~/Images/Angular.jpg" class="img-responsive" id="footer-2" />
+                        <h2 class="machine1">
+                            AngularJs
+                        </h2>
+                        <p class="machine">
+                            AngularJS is a JavaScript framework. It is a library written in JavaScript.It is distributed as a JavaScript file, and can be added to a web page with a script tag.The ng-app directive defines an AngularJS application.The ng-model directive binds the value of HTML controls (input, select, textarea) to application data.The ng-bind directive binds application data to the HTML view.
+
+
+                        </p>
+                    </div>
+                    <div class="col-md-4">
+                        <br />
+
+                        <img src="~/Images/HTML.png" class="img-responsive" id="footer-3" />
+                        <h2 class="machine1">
+                            HTML
+                        </h2>
+                        <p class="machine">
+                            HTML is the standard markup language for creating Web pages.
+                            HTML stands for Hyper Text Markup Language
+                            HTML describes the structure of Web pages using markup
+                            HTML elements are the building blocks of HTML pages
+                            HTML elements are represented by tags
+                            HTML tags label pieces of content such as "heading", "paragraph", "table".
+                            Browsers do not display the HTML tags, but use them to render the content of the page
+
+                        </p>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <footer>
+                <div class="container">
+                    <div class="icon-bar">
+
+                        <a href="https://in.linkedin.com/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+
+                        <a href="https://twitter.com/Cognizant"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+
+                        <a href="https://plus.google.com/discover"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+
+                        <a href="https://www.facebook.com/Cognizant/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+
+                        <a href="https://github.com/"><i class="fa fa-github" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+            </footer>
+
+
+
+        </div>
+</body>
+</html>
